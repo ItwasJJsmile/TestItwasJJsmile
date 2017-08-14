@@ -1,0 +1,7 @@
+https://crunchify.com/how-to-create-restful-java-client-using-apache-httpclient-example/
+mkyong.com
+
+https://www.javacodegeeks.com/2012/09/simple-rest-client-in-java.html
+
+
+https://www.tutorialspoint.com/index.htm
