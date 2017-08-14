@@ -5,3 +5,8 @@ https://www.javacodegeeks.com/2012/09/simple-rest-client-in-java.html
 
 
 https://www.tutorialspoint.com/index.htm
+
+
+//SAML
+https://auth0.com/blog/how-saml-authentication-works/
+https://dzone.com/articles/how-saml-authentication-works
